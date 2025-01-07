@@ -1,0 +1,15 @@
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.deps.json
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.dll
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.pdb
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Core.dll
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Core.pdb
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.csproj.AssemblyReference.cache
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.AssemblyInfoInputs.cache
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.AssemblyInfo.cs
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.csproj.CoreCompileInputs.cache
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog..75771DFE.Up2Date
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.dll
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\refint\Catalog.Application.dll
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.pdb
+C:\Users\anish\OneDrive\Desktop\.NetCore With Microservices\.Net Core Microservices Using Clean Architecture\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\ref\Catalog.Application.dll
